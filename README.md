@@ -1,0 +1,2 @@
+# Xerox-Anywhere-UserSide
+Nowdays, students face the problem of heavy rush to xerox shops. They have to wait at the shop for a long time and sometimes the time is in hours. Due to rush on xerox shop, they are not getting their xerox or print on time and some time much time wastes behind it. The shop owners also face the problem in managing such a large number of xerox copies everytime. It is tiresome task to deal with such things. 
